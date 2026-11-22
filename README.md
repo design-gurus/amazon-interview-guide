@@ -39,7 +39,7 @@ This repository is a short, free guide to that process for software development 
 | [Coding interview](coding-interview.md) | The format, the four graded items, and the patterns commonly reported |
 | [System design interview](system-design-interview.md) | Question types, Amazon product themes, and what a strong answer includes |
 | [Behavioral interview](behavioral-interview.md) | How the Leadership Principles are used in the loop, and how to prepare stories |
-| [Levels](levels.md) | SDE I to Principal Engineer, L4 to L8, and how the interview changes by level |
+| [Levels](levels.md) | The SDE ladder from L4 to L8, and how the interview changes by level |
 | [Question bank](question-bank.md) | 52 coding, system design, and behavioral questions, with links to lessons |
 | [Roles](roles.md) | Intern, new graduate, experienced SDE, and AWS solutions architect |
 | [Four-week plan](four-week-plan.md) | A weekly schedule with a finish condition for each week |
