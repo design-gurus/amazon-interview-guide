@@ -84,6 +84,8 @@ This repository gives the outline. The courses teach each round in full with wor
 
 Related free guides: [Amazon Leadership Principles](https://github.com/design-gurus/amazon-leadership-principles), [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels/blob/main/companies/amazon.md), [Grokking System Design](https://github.com/design-gurus/grokking-system-design), and [Grokking the Coding Interview](https://github.com/design-gurus/grokking-coding-interview).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections, new questions, and reports of how an Amazon loop was run are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
